@@ -45,7 +45,9 @@ Include Classification Report here
 
 ### Confusion Matrix
 
-Include confusion matrix here
+
+![output](./client.png)
+![output](customers.csv)
 
 
 ### New Sample Data Prediction
