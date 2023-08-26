@@ -47,7 +47,7 @@ Include Classification Report here
 
 
 ![output](./client.png)
-![output](customers.csv)
+![Dataset](customers.csv)
 
 
 ### New Sample Data Prediction
