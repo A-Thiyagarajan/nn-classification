@@ -213,8 +213,7 @@ print(le.inverse_transform(x_single_prediction))
 ## Dataset Information
 
 
-
-![Dataset](images/dataset.png)
+![dataset](images/dataset.png)
 
 
 ## OUTPUT
